@@ -22,5 +22,8 @@
     "url": "https://github.com/quassum/prettier-config/issues"
   },
   "homepage": "https://github.com/quassum/prettier-config#readme",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "*"
+  }
 }
