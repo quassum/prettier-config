@@ -1,0 +1,15 @@
+{
+  "name": "@quassum/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration by Quassum Manus",
+  "main": "index.js",
+  "module": "index.esm.js",
+  "keywords": [
+    "prettier",
+    "configuration",
+    "formatting"
+  ],
+  "repository": "https://github.com/quassum/prettier-config.git",
+  "author": "Antoni Silvestrovič <antoni.silvestrovic@gmail.com>",
+  "license": "MIT"
+}
