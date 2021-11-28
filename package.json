@@ -9,7 +9,18 @@
     "configuration",
     "formatting"
   ],
-  "repository": "https://github.com/quassum/prettier-config.git",
-  "author": "Antoni Silvestrovič <antoni.silvestrovic@gmail.com>",
+  "author": {
+    "name": "Antoni Silvestrovič",
+    "email": "antoni.silvestrovic@gmail.com",
+    "url": "http://antoni.ai/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quassum/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/quassum/prettier-config/issues"
+  },
+  "homepage": "https://github.com/quassum/prettier-config#readme",
   "license": "MIT"
 }
