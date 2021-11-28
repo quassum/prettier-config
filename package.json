@@ -1,6 +1,6 @@
 {
   "name": "@quassum/prettier-config",
-  "version": "1.0.0-dev.2",
+  "version": "1.0.0",
   "description": "Prettier configuration by Quassum Manus",
   "main": "index.js",
   "module": "index.esm.js",
