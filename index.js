@@ -1,4 +1,4 @@
-module.exports = {
+module.config = {
   bracketSpacing: true,
   singleQuote: true,
   trailingComma: "es5",

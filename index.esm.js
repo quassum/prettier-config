@@ -1,4 +1,4 @@
-const config = {
+export const config = {
   bracketSpacing: true,
   singleQuote: true,
   trailingComma: "es5",
@@ -8,5 +8,3 @@ const config = {
   bracketSameLine: false,
   arrowParens: "always",
 };
-
-export default config;
