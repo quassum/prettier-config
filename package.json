@@ -4,6 +4,7 @@
   "description": "Prettier configuration by Quassum Manus",
   "main": "index.js",
   "module": "index.esm.js",
+  "types": "index.d.ts",
   "keywords": [
     "prettier",
     "configuration",
@@ -24,6 +25,9 @@
   "homepage": "https://github.com/quassum/prettier-config#readme",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "*"
+    "prettier": "latest"
+  },
+  "devDependencies": {
+    "@types/prettier": "latest"
   }
 }
