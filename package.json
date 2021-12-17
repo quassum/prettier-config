@@ -1,6 +1,6 @@
 {
   "name": "@quassum/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Prettier configuration by Quassum Manus",
   "main": "index.js",
   "module": "index.esm.js",
@@ -25,9 +25,9 @@
   "homepage": "https://github.com/quassum/prettier-config#readme",
   "license": "MIT",
   "peerDependencies": {
-    "prettier": "latest"
+    "prettier": "^2"
   },
   "devDependencies": {
-    "@types/prettier": "latest"
+    "@types/prettier": "^2"
   }
 }
