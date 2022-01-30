@@ -1,5 +1,7 @@
 # Prettier configuration by Quassum Manus
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bring.shrubbery)
+
 ## Usage
 
 To use this config install it first:
