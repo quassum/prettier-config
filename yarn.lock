@@ -245,6 +245,90 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
+"@swc/core-android-arm-eabi@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-android-arm-eabi/-/core-android-arm-eabi-1.2.149.tgz#ea516c56ef5c6c3fd2f85a74b9700ceed7dfc18c"
+  integrity sha512-kiPgZL+bBIvXRRWeAM6ag+Bi0pNNbgt6TOKF5jRkIGnFP7Jd9ZXvDX57m+dUCKD85ZtAQfIg8h4WZy6k2l2miA==
+
+"@swc/core-android-arm64@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-android-arm64/-/core-android-arm64-1.2.149.tgz#487b8bf68767ef59319edd5f4a6710252cb8f66f"
+  integrity sha512-AtPTJpMzZkgVw6GhnudrnVJmX+XOFva8g8m99fhEcf19s0+Mpa0PRSzWBFK04THBdVZkKDqNOnOeHdg1StUiPw==
+
+"@swc/core-darwin-arm64@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-darwin-arm64/-/core-darwin-arm64-1.2.149.tgz#53003bd80fe359edb9d21301647d54e4fbf0e16b"
+  integrity sha512-L2LD88Rr9agHbifxEFtA/cTIPVuxahmcnGACbPYQZ+KuErXzfaff5OY7rYQC0JpM8wCzgb1xmfHjMAlFQnFUXw==
+
+"@swc/core-darwin-x64@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-darwin-x64/-/core-darwin-x64-1.2.149.tgz#981d89e9108c8bcc6dba5219f8070c73179854f0"
+  integrity sha512-oAAz2YpmREsbFnqPF4kATGanN+oZPk1phdABewsIiGz2Thm0ApHt+P1IiIPeWh/7XM7nK4VgzwLh+1B0aFviow==
+
+"@swc/core-freebsd-x64@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-freebsd-x64/-/core-freebsd-x64-1.2.149.tgz#76b3e0efc2297128d5da3cac095b3fb1111f63aa"
+  integrity sha512-xpefUd2Zn28jabQhbHbZI/fSmAAUT6chYbnayWNozmS/V3FM63Iy0anWH12iEHgL46hb8z7ZeQ8Ip1i78vFIWw==
+
+"@swc/core-linux-arm-gnueabihf@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-linux-arm-gnueabihf/-/core-linux-arm-gnueabihf-1.2.149.tgz#bc441dc21a370f8638d4fa486429887a071f76ff"
+  integrity sha512-ENIw7pjQi8tHciqpKCIc5vBsizsqz8u0BSSxxCOxYa/jd6Qilw6c87DwW3MaDd6wloept7GFXwVNeLoQ9yM8ZQ==
+
+"@swc/core-linux-arm64-gnu@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-linux-arm64-gnu/-/core-linux-arm64-gnu-1.2.149.tgz#b44cf3b1d57d5bac55b6c439eb94488b5d30ae19"
+  integrity sha512-DUr//8yQ04T8oTVrCWZsp1mCHsoWwXFAxJYsQdm/jrgUHIo6fzrYXr76HTxTbR9VAK1t+JSmYJSP/0UqDpJVzA==
+
+"@swc/core-linux-arm64-musl@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-linux-arm64-musl/-/core-linux-arm64-musl-1.2.149.tgz#0b1c4335bfb136bfad80525a05f8c40c700a670c"
+  integrity sha512-Gfy5BFWQ45k8KHkZuzVi0Z0vIc3Y7XOo6Ce5ENz7s9e1WVSAcgwVCZ9lN0CSTgVcTj+Mbx5JpCY2n+vcD7P2uA==
+
+"@swc/core-linux-x64-gnu@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.2.149.tgz#952ed95d1f86019a59cc95779421a38894f1d54c"
+  integrity sha512-iK3pvtCRpcHTbWtyDhyYZD4W+qigaS6XTvI3M3uthC6GOtaPJ3DlNR/70HLeslnEY+uDb6xWUMV+xKqwzUK3ig==
+
+"@swc/core-linux-x64-musl@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.2.149.tgz#9826dd8b4c1429246db56dcf2da23612d52a384a"
+  integrity sha512-LnDrBVYs3K7AGd556tpKBRCs+u4SCOTnFVmDjkwUJG9+4k3Rgm8f+ajfo0Z7XW6pHvpZSvtB5omLK4HdHH6N3A==
+
+"@swc/core-win32-arm64-msvc@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-win32-arm64-msvc/-/core-win32-arm64-msvc-1.2.149.tgz#d5191a6ff150a5ce147daa2eea140cbbdee562ff"
+  integrity sha512-3iDoEMaYb8COiaJ1335QGn6afov9Tthd4rN8WTlgWHcwVeeUL/z66kO8XOXwZ9V6n/SOdxRkbDMPPzP+0P/c4w==
+
+"@swc/core-win32-ia32-msvc@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-win32-ia32-msvc/-/core-win32-ia32-msvc-1.2.149.tgz#8742282c86025302333c225d6190696466a32713"
+  integrity sha512-C4TlN/0+PVYYfoJMG2q8Brzky+5B2ImP4iGyE7hql0FatcbnnKhI+JB4sFxEiWHt89lrtqxdItZ82iMzllUt7g==
+
+"@swc/core-win32-x64-msvc@1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core-win32-x64-msvc/-/core-win32-x64-msvc-1.2.149.tgz#70d05b48d7ba879647c67793ff034acea6591855"
+  integrity sha512-o8+lOEsDT2eU/zFRfJeOv3SKHjmZCqh3M4gv7u8G5G6TKHm3QolEPAyGp5gTLL8aMTXqNQ6sZliOiAfNpL2Q+g==
+
+"@swc/core@^1.2.149":
+  version "1.2.149"
+  resolved "https://registry.npmjs.org/@swc/core/-/core-1.2.149.tgz#dc74d0aa148c01cc0b62113c486888aaabc9b73b"
+  integrity sha512-12Js/6eNUHtRWIpISIpZGpvWtIC/lMoQK81FlQ8f0eV+urlRVYOv0P2+57b0nodurM7vPI6TfPeESKyN7rHruQ==
+  optionalDependencies:
+    "@swc/core-android-arm-eabi" "1.2.149"
+    "@swc/core-android-arm64" "1.2.149"
+    "@swc/core-darwin-arm64" "1.2.149"
+    "@swc/core-darwin-x64" "1.2.149"
+    "@swc/core-freebsd-x64" "1.2.149"
+    "@swc/core-linux-arm-gnueabihf" "1.2.149"
+    "@swc/core-linux-arm64-gnu" "1.2.149"
+    "@swc/core-linux-arm64-musl" "1.2.149"
+    "@swc/core-linux-x64-gnu" "1.2.149"
+    "@swc/core-linux-x64-musl" "1.2.149"
+    "@swc/core-win32-arm64-msvc" "1.2.149"
+    "@swc/core-win32-ia32-msvc" "1.2.149"
+    "@swc/core-win32-x64-msvc" "1.2.149"
+
 "@trivago/prettier-plugin-sort-imports@^3.2.0":
   version "3.2.0"
   resolved "https://registry.npmjs.org/@trivago/prettier-plugin-sort-imports/-/prettier-plugin-sort-imports-3.2.0.tgz#7a32b6b3085c436eda0143b2710c440a4a56db90"
