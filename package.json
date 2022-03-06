@@ -1,12 +1,12 @@
 {
   "name": "@quassum/prettier-config",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Prettier configuration by Quassum Manus",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "build": "tsup src/index.ts --format esm,cjs --dts --target es5",
     "prepublish": "yarn build",
     "clean": "rimraf dist"
   },
