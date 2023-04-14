@@ -7,6 +7,7 @@ module.exports = {
   bracketSameLine: false,
   arrowParens: "always",
   importOrder: [
+    '"use client";?',
     "^(react|react-dom)$",
     "^next.+$",
     "^@.+$",

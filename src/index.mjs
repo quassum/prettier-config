@@ -7,6 +7,7 @@ export default {
   bracketSameLine: false,
   arrowParens: "always",
   importOrder: [
+    '"use client";?',
     "^(react|react-dom)$",
     "^next.+$",
     "^@.+$",
